@@ -1,0 +1,45 @@
+/*Manual BlocksMBB-511
+Minimal >> Events and Services:- The font color of the text in both Events & Services are white, hence unable to the content.*/
+
+/*Services Page*/
+
+.service-wrap .mod-service-catalog.mopad-exempt h1,
+.events.mopad-exempt h1.fp-el,
+.events-wrap .title-offer .t-edit-helper h3,
+.events-wrap .menuwrap .no-events h2,
+.events-wrap .mod-social-share-buttons h3 {
+    color: #3b3b3b;
+}
+
+
+/* Manual BlocksMBB-511
+Minimal >> Events and Services:- The font color of the text in both Events & Services are white, hence unable to the content.*/
+
+.testimonials-wrap .mod-testimonial p,
+.testimonials-wrap .mod-testimonial h5,
+.testimonials-wrap .mod-testimonial h6,
+.about-content .mod-header h3,
+.about-content .mod-header h4,
+.about-content .mod-header  h5, 
+.about-content .t-edit-helper p,
+.team-member .testimonial-head h5,
+.team-member .testimonial-head h6,
+.team-member .team-description.t-edit-helper p,
+.contact-wrap .hours-module h3,
+.contact-wrap .hours-module tr td.firstColumn,
+.contact-wrap .hours-module tr td.alignRight,
+.contact-wrap .hours-module tr td.hideRest
+.contact-wrap .hours-module tr td span,
+.contact-wrap .hours-module tr td.fp-el{
+    color:#000;
+
+}
+.about-img .mod-photo .img-pin {
+    text-align: center;
+}
+.about-img .mod-photo img {
+    width: 100%;
+    cursor: pointer;
+    max-width: 130px;
+}
+

@@ -43,3 +43,9 @@ Minimal >> Events and Services:- The font color of the text in both Events & Ser
     max-width: 130px;
 }
 
+
+.about-img .mod-photo img {
+    width: 100%;
+    
+}
+
